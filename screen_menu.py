@@ -3,7 +3,7 @@ import tkinter as tk
 
 from PIL import Image, ImageTk
 
-img = Image.open("fruit.png")
+img = Image.open("fruits.png")
 
 
 # Загружает все методы из данной библиотеки
